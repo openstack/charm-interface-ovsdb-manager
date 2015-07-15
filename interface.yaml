@@ -1,0 +1,3 @@
+name: ovsdb-manager
+summary: Interface for relating to the OVSDB manager aspect of OpenDayLight SDN
+maintainer: James Page <james.page@ubuntu.com>
